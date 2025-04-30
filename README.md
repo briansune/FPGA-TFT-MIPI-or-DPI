@@ -17,6 +17,13 @@ paypal.me/briansune
 3) Successful cases are demonstrated on three Xilinx FPGA families "Kintex", "Artix", and "ZYNQ Ultrascale+".
 4) It is confident to say this pure Verilog-based MIPI DSI design is stabled and matured enough to work on.
 
+### Read First !
+
+Please study the example 5.5" LCD with LCD driver HX8399C.
+
+This example provided detail resistor-network vs MC20902 design, which is aligned with Xilinx doc. "XAPP894".
+
+The resistor-network is not re-simulated via IBIS simulator, so if you really concern on SI then do it as your will.
 
 ### Display Examples
 
