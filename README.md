@@ -25,6 +25,10 @@ This example provided detail resistor-network vs MC20902 design, which is aligne
 
 The resistor-network is not re-simulated via IBIS simulator, so if you really concern on SI then do it as your will.
 
+### Video Test Pattern Top Block-Diagram
+
+<img src="./images/MIPI_IP_TOP.png" width="600">
+
 ### Display Examples
 
 |Idx|Display|Status|I/F|Driver IC|Lane #|Mode|Project Link|Tested FPGA|IDE|FPS|W,H,BPP|
