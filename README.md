@@ -27,7 +27,7 @@ The resistor-network is not re-simulated via IBIS simulator, so if you really co
 
 ### Video Test Pattern Top Block-Diagram
 
-<img src="./images/MIPI_IP_TOP.png" width="600">
+<img src="./images/MIPI_IP_TOP.jpg" width="600">
 
 ### Display Examples
 
