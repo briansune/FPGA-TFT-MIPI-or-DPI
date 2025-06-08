@@ -29,9 +29,14 @@ The resistor-network is not re-simulated via IBIS simulator, so if you really co
 
 <img src="./images/MIPI_IP_TOP.jpg" width="600">
 
-### A Full Resources Report under Kintex-7 XC7K325T
+### A Full Resources Report under Kintex-7 XC7K325T (Vivado 2024.2)
 
 [Full-Report](./Kintex7_MIPI_DSI.html)
+
+### Tested Xilinx Tools
+
+1) Vivado 2020.2 - Original Develop Environment
+2) Vivado 2024.2 - Updated Environment (No Modification is Found on HDL files)
 
 ### Display Examples
 
